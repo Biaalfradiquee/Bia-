@@ -1,0 +1,46 @@
+Questão 1: Encontre referências e comente:
+
+a) A relação entre a LGPD e os Data Centers no Brasil: 
+
+R: A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas.
+Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center. Afinal, esse recurso tem como papel hospedar dados e disponibilizá-los de acordo com as 
+necessidades do público-alvo. Assim, a LGPD impacta de três formas o setor de Data Centers, sendo eles: 
+
+Mais atenção com o mapeamento de dados: para evitar o acesso indevido às informações, é preciso haver um mapeamento dos dados que estão sob a responsabilidade de uma instituição. 
+Esse processo colabora para avaliar o que pode ser protegido internamente ou ficar por conta de um provedor de serviços de TI. 
+Em muitos casos, uma empresa opta pela terceirização dos serviços de Tecnologia da Informação, porque facilita a adequação aos preceitos da LGPD e, ao mesmo tempo, permite a redução de
+custos.
+
+Foco na política de acessos: com o intuito de minimizar as probabilidades de roubo ou vazamento de dados, as organizações devem ter um maior rigor com a política de acesso aos ambientes
+físicos e virtuais. Ao evitar a presença de pessoas não autorizadas em um Data Center e limitar o acesso aos sistemas de gestão de ambientes de TI, torna-se viável estar de acordo com as
+regras da LGPD.
+
+Monitoramento mais preciso: mais uma prova da relação impactante entre Data Center e a Lei Geral de Proteção de Dados envolve o investimento em aprimorar o monitoramento do ambiente. 
+Sem dúvida, essa prática ajuda a prevenir e eliminar as ameaças virtuais.
+
+b) Formatos de arquivos de dados proprietários e abertos : 
+
+R: Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Formatos portam padrões e são implementados por softwares, 
+podendo ser abertos ou fechados, livres ou proprietários. Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que 
+seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+Assim, um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu
+uso. O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras,
+garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+Enquanto os formatos proprietários são, na verdade, controlados e definidos por interesses privados. Com o formato proprietário, o usuário corre o risco de perder todas as informações
+contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos 
+(órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+
+b.1. Forneça exemplos de formatos: 
+
+R: Exemplos de formatos proprietários: DWG - AutoCad Drawing; SWF - Shockwave Flash; DOC - formato proprietário de texto; PPT - formato proprietário de apresentação de slides
+
+b.2 Discuta as implicações relacionadas a dados públicos: 
+
+R: Não existe tratamento de dados pessoais “fora” dos princípios e deveres estabelecidos na LGPD. Vale lembrar da importância de se observar as leis setoriais que tratam do tema, como o 
+Código de Defesa do Consumidor, por exemplo. Também temos as normas decorrentes da autorregulação, como o Guia de “Boas Maneiras” da Associação Brasileira de Marketing de Dados (“ABEMD”)
+e o Código de Autorregulação para Prática de E-mails de Marketing (“CAPEM”), que estabelecem importantes orientações. A inobservância dessas regras pode resultar na aplicação de uma 
+sanção administrativa pela ANPD, outro órgão regulador ou ainda um questionamento em processo judicial. Entretanto, nem tudo é despesa e obrigação. A adequação e monitoramento do Programa
+de Proteção de Dados Pessoais é um excelente diferencial para atrair investidores e fidelizar clientes quanto à solidez e ao compliance da empresa em relação aos princípios legais, em 
+especial os princípios da prevenção, da segurança, da responsabilização e da prestação de contas. 
+
+
