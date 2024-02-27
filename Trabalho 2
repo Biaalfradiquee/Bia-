@@ -1,3 +1,47 @@
+Questão 1: Forneça a definição de arquivo, no contexto da computação.  
+
+Resposta: Um arquivo consiste em uma sequência de bytes, armazenada em um dispositivo físico não volátil, como um disco rígido ou de estado
+sólido, que preserva seu conteúdo mesmo quando desligado. Cada arquivo possui um nome, ou outra referência, que permite sua localização e 
+acesso. Do ponto de vista do usuário e das aplicações, o arquivo é a unidade básica de armazenamento de informação em um dispositivo não 
+volátil, pois para eles não há forma mais simples de armazenamento persistente de dados. Os arquivos são extremamente versáteis em conteúdo
+e capacidade, ou seja, podem conter desde um texto com alguns poucos caracteres até vídeos com dezenas de gigabytes, ou ainda mais. Como um
+dispositivo de armazenamento pode conter milhões de arquivos, estes são organizados em estruturas hierárquicas denominadas diretórios, para
+facilitar sua localização e acesso pelos usuários. A organização do conteúdo dos arquivos e diretórios dentro de um dispositivo físico é 
+denominada sistema de arquivos. Um sistema de arquivos pode ser visto como uma imensa estrutura de dados armazenada de forma persistente no
+dispositivo físico. Existe um grande número de sistemas de arquivos, dentre os quais podem ser citados o NTFS (nos sistemas Windows), 
+Ext2/Ext3/Ext4 (Linux), HPFS (MacOS), FFS (Solaris) e FAT (usado em pendrives USB, câmeras fotográficas digitais e leitores MP3).
+
+Questão 1.1: O que é um arquivo de texto? 
+
+Resposta: O arquivo de texto puro (ou plain text),  é usado para armazenar informações textuais simples, como códigos-fonte de programas, 
+arquivos de configuração, páginas HTML, dados em XML, etc. Um arquivo de texto é formado por linhas de caracteres de tamanho variável, 
+separadas por caracteres de controle. Nos sistemas UNIX, as linhas são separadas por um caractere New Line (ASCII 10 ou “\n”). Já nos 
+sistemas DOS/Windows, as linhas de um arquivo de texto são separadas por dois caracteres: o caractere Carriage Return (ASCII 13 ou “\r”) 
+seguido do caractere New Line.
+
+Questão 2: Explique o que é uma variável, no contexto da programação de computadores. 
+
+Resposta: Uma variável representa um contêiner ou espaço na memória física ou virtual de um computador, onde diferentes tipos de dados 
+(valores) são armazenados durante a execução de um programa. A cada variável é atribuído um nome descritivo ou identificador que se refere
+ao valor salvo. Os dados armazenados podem mudar de valor ou serem constantes. As variáveis são usadas para salvar e recuperar dados, 
+representar valores existentes e atribuir novos. Elas permitem que os programadores se refiram a um valor com um nome representativo em vez
+de ter que se lembrar desse valor, o que facilita muitas tarefas complexas. Assim, é possível utilizar valores armazenados em cálculos, 
+operações de entrada e saída, comparações e outros tipos de processamento de dados. Por exemplo, em um programa de contabilidade, uma 
+variável pode armazenar o saldo de uma conta e outra variável representa o valor de uma transação. Através de variáveis, é possível 
+facilmente realizar operações matemáticas para atualizar o saldo da conta.
+
+Questão 3: Explique o que seria um servidor, no contexto da programação. 
+
+Resposta: É uma espécie de computador que engloba um ou mais processadores potentes. Seu objetivo é operar como qualquer outra máquina o 
+processamento de dados, informações e demais soluções solicitadas por um usuário, e transferir esses resultados para diferentes computadores
+. Dentro dele são encontrados os bancos de memórias para armazenar as informações, todas as portas de comunicações, os softwares ou qualquer
+outra função e equipamento que executa uma ação no computador. Outra característica é que ele pode ser tanto físico quanto virtual, desde 
+que estejam instalados. Assim, eles são capazes de executar aplicações e serviços dentro de uma rede LAN ou WAN. Ou seja, um servidor é um 
+computador equiparado com um ou mais processadores, banco de memória, portas de comunicação, softweres e, ocasionalmente, algum sistema para
+armazenamento de dados, como hard disks internos ou memória SSD. 
+
+
+Trabalho 2 
 Questão 1: Encontre referências e comente:
 
 a) A relação entre a LGPD e os Data Centers no Brasil: 
