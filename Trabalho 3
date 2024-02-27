@@ -1,47 +1,57 @@
 Questão 1: Explique as diferenças entre 3 linguagens de programação: 
 
-R:Python é uma linguagem de programação de alto nível e para propósitos diversos. Ela pode ser utilizada para múltiplas tarefas, desde a análise e visualização de dados até o desenvolvimento,
-prototipação e automação web. A linguagem Python é muito popular entre desenvolvedores de software, pois funciona muito bem como uma linguagem de scripts. Adicionalmente, ela permite que seus
-usuários utilizem diferentes paradigmas de programação, incluindo linguagens de programação funcionais, processuais, imperativas e orientadas a objetos. Outra característica importante da 
-linguagem Python é que ela é de código aberto, isto é, ela permite que os programadores modifiquem seu código-fonte para que se ajuste às suas necessidades. Além de tudo isso, é mais 
-simples aprender Python do que as outras linguagens de programação, graças à sua sintaxe, que é familiar à língua inglesa. 
+R:Python é uma linguagem de programação de alto nível e para propósitos diversos. Ela pode ser utilizada para múltiplas tarefas, desde a 
+análise e visualização de dados até o desenvolvimento, prototipação e automação web. A linguagem Python é muito popular entre 
+desenvolvedores de software, pois funciona muito bem como uma linguagem de scripts. Adicionalmente, ela permite que seus usuários 
+utilizem diferentes paradigmas de programação, incluindo linguagens de programação funcionais, processuais, imperativas e orientadas a 
+objetos. Outra característica importante da linguagem Python é que ela é de código aberto, isto é, ela permite que os programadores 
+modifiquem seu código-fonte para que se ajuste às suas necessidades. Além de tudo isso, é mais simples aprender Python do que as outras 
+linguagens de programação, graças à sua sintaxe, que é familiar à língua inglesa. 
 
-JavaScript, juntamente com HTML e CSS, é a melhor linguagem de programação para aprender desenvolvimento web front-end. 97,8% de todos os sites no mundo utilizam JavaScript para seu 
-desenvolvimento client-side (a interface que é visível para os visitantes). Isso faz com que essa seja a linguagem de programação mais popular para esses casos. O JavaScript geralmente é 
-utilizado para melhorar a interatividade de páginas na internet. Essa linguagem de programação permite que os desenvolvedores web adicionem elementos dinâmicos nas landing pages, como 
-gráficos animados, botões clicáveis e efeitos que aparecem quando passamos o mouse sobre alguma sessão específica do site. A linguagem JavaScript não é útil apenas para criar sites, mas 
-também é excelente para desenvolvimento de aplicações web, já que oferece um design muito intuitivo. De modo geral, a JavaScript é uma daquelas linguagens de programação relativamente 
-fáceis de aprender, tornando esta a escolha perfeita para quem está planejando se tornar um desenvolvedor web. 
+JavaScript, juntamente com HTML e CSS, é a melhor linguagem de programação para aprender desenvolvimento web front-end. 97,8% de todos os
+sites no mundo utilizam JavaScript para seu desenvolvimento client-side (a interface que é visível para os visitantes). Isso faz com que 
+essa seja a linguagem de programação mais popular para esses casos. O JavaScript geralmente é utilizado para melhorar a interatividade de
+páginas na internet. Essa linguagem de programação permite que os desenvolvedores web adicionem elementos dinâmicos nas landing pages, 
+como gráficos animados, botões clicáveis e efeitos que aparecem quando passamos o mouse sobre alguma sessão específica do site. A 
+linguagem JavaScript não é útil apenas para criar sites, mas também é excelente para desenvolvimento de aplicações web, já que oferece um
+design muito intuitivo. De modo geral, a JavaScript é uma daquelas linguagens de programação relativamente fáceis de aprender, tornando 
+esta a escolha perfeita para quem está planejando se tornar um desenvolvedor web. 
 
-Java é uma linguagem de programação exclusiva que pertence à Oracle. Trata-se de uma linguagem de programação de alto nível — ou seja, que mais se aproxima da linguagem humana — e para 
-propósitos diversos, permitindo que os desenvolvedores criem todo e qualquer tipo de aplicação com facilidade. Amplamente conhecida como uma linguagem do tipo “escreva uma vez, rode em 
-qualquer lugar”, os códigos Java podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos. A linguagem Java é relativamente 
-simples. Isso se deve à sua sintaxe, que possui familiaridade com tarefas do mundo real e com estruturas orientadas a objetos. Além disso, os novos frameworks Java, como Spring e Hibernate,
-tornam a linguagem ainda mais conveniente para que os desenvolvedores construam aplicações de diversas naturezas. Desde a engenharia de softwares até o desenvolvimento web back-end, 
-passando pela ciência de dados e pelo big data, é possível fazer tudo usando Java. Adicionalmente, esta linguagem de programação é comumente utilizada em serviços financeiros devido à sua 
-segurança robusta. 
+Java é uma linguagem de programação exclusiva que pertence à Oracle. Trata-se de uma linguagem de programação de alto nível — ou seja, que
+mais se aproxima da linguagem humana — e para propósitos diversos, permitindo que os desenvolvedores criem todo e qualquer tipo de 
+aplicação com facilidade. Amplamente conhecida como uma linguagem do tipo “escreva uma vez, rode em qualquer lugar”, os códigos Java 
+podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos. A linguagem 
+Java é relativamente simples. Isso se deve à sua sintaxe, que possui familiaridade com tarefas do mundo real e com estruturas orientadas 
+a objetos. Além disso, os novos frameworks Java, como Spring e Hibernate, tornam a linguagem ainda mais conveniente para que os 
+desenvolvedores construam aplicações de diversas naturezas. Desde a engenharia de softwares até o desenvolvimento web back-end, passando 
+pela ciência de dados e pelo big data, é possível fazer tudo usando Java. Adicionalmente, esta linguagem de programação é comumente 
+utilizada em serviços financeiros devido à sua segurança robusta. 
 
 Diferenças entre a três linguagens de programação apresentadas: 
 1. Propósito e domínio de uso: 
-Python: É uma linguagem de propósito geral, usada em uma ampla variedade de domínios, como desenvolvimento web, análise de dados, aprendizado de máquina, automação de tarefas, entre outros.
-JavaScript: Inicialmente desenvolvida para manipular interatividade em páginas web, JavaScript tornou-se uma linguagem de programação versátil, usada tanto no desenvolvimento front-end 
-(do lado do cliente) quanto no back-end (do lado do servidor) para web, além de ser usada em aplicativos móveis e em IoT (Internet das Coisas).
-Java: Java também é uma linguagem de propósito geral, mas é amplamente utilizada em grandes sistemas corporativos, desenvolvimento Android, aplicativos de desktop e servidores de 
-aplicativos. Java é conhecida por sua portabilidade e segurança.
+Python: É uma linguagem de propósito geral, usada em uma ampla variedade de domínios, como desenvolvimento web, análise de dados, 
+aprendizado de máquina, automação de tarefas, entre outros.
+JavaScript: Inicialmente desenvolvida para manipular interatividade em páginas web, JavaScript tornou-se uma linguagem de programação 
+versátil, usada tanto no desenvolvimento front-end (do lado do cliente) quanto no back-end (do lado do servidor) para web, além de ser 
+usada em aplicativos móveis e em IoT (Internet das Coisas).
+Java: Java também é uma linguagem de propósito geral, mas é amplamente utilizada em grandes sistemas corporativos, desenvolvimento 
+Android, aplicativos de desktop e servidores de aplicativos. Java é conhecida por sua portabilidade e segurança.
 
 2. Sintaxe e semântica 
-Python: Possui uma sintaxe simples e legível, comumente associada ao uso de indentação para definir blocos de código. É conhecida por sua facilidade de aprendizado e expressividade.
-JavaScript: Tem uma sintaxe inspirada em C e possui uma estrutura de eventos orientada a objetos. Ela é dinâmica e flexível, permitindo a criação de código assíncrono e manipulação de 
-eventos de forma eficiente.
-Java: Possui uma sintaxe fortemente tipada e orientada a objetos. Requer declaração explícita de tipos e usa chaves para delimitar blocos de código. É uma linguagem mais verbosa em 
-comparação com Python e JavaScript.
+Python: Possui uma sintaxe simples e legível, comumente associada ao uso de indentação para definir blocos de código. É conhecida por sua
+facilidade de aprendizado e expressividade.
+JavaScript: Tem uma sintaxe inspirada em C e possui uma estrutura de eventos orientada a objetos. Ela é dinâmica e flexível, permitindo a
+criação de código assíncrono e manipulação de eventos de forma eficiente.
+Java: Possui uma sintaxe fortemente tipada e orientada a objetos. Requer declaração explícita de tipos e usa chaves para delimitar blocos
+de código. É uma linguagem mais verbosa em comparação com Python e JavaScript.
 
 3. Execução e ambiente 
-Python: É uma linguagem interpretada, o que significa que o código fonte é executado diretamente por um interpretador. Python tem uma grande variedade de bibliotecas e frameworks que 
-facilitam o desenvolvimento em diferentes áreas.
-JavaScript: Inicialmente interpretada nos navegadores, JavaScript também pode ser executada em servidores usando ambientes como Node.js. Isso permite a execução de JavaScript em diferentes
-ambientes, incluindo web servers e servidores de aplicativos.
-Java: Java é compilada em bytecode, que é executado em uma máquina virtual Java (JVM). Isso torna o código Java altamente portável, já que a JVM está disponível em várias plataformas.
+Python: É uma linguagem interpretada, o que significa que o código fonte é executado diretamente por um interpretador. Python tem uma 
+grande variedade de bibliotecas e frameworks que facilitam o desenvolvimento em diferentes áreas.
+JavaScript: Inicialmente interpretada nos navegadores, JavaScript também pode ser executada em servidores usando ambientes como Node.js.
+Isso permite a execução de JavaScript em diferentesambientes, incluindo web servers e servidores de aplicativos.
+Java: Java é compilada em bytecode, que é executado em uma máquina virtual Java (JVM). Isso torna o código Java altamente portável, já que
+a JVM está disponível em várias plataformas.
 
 A) Tente fazer um código mínimo em cada uma delas: 
 
@@ -58,7 +68,9 @@ Java: public class OlaMundo {
 
 B) Prova da execução: 
 
-Phyton: 
+Phyton: https://github.com/Biaalfradiquee/Bia-/blob/main/Captura%20de%20Tela%20(3).png
+JavaScript: https://github.com/Biaalfradiquee/Bia-/blob/main/Captura%20de%20Tela%20(4).png
+Java: https://github.com/Biaalfradiquee/Bia-/blob/main/Captura%20de%20Tela%20(5).png
 
 
 
