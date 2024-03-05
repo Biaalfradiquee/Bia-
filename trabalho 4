@@ -1,0 +1,51 @@
+1: Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos:
+– Uma estrutura de repetição
+
+Exemplo 1:
+# Exemplo de estrutura de repetição usando um loop while
+contador = 0
+while contador < 10:
+    print("O contador está atualmente em:", contador)
+    contador += 1
+print("Loop concluído.")
+
+Exemplo 2: 
+# Exemplo de estrutura de repetição usando um loop for
+nomes = ["Alice", "Bob", "Carol", "David"]
+
+for nome in nomes:
+    print("Olá,", nome)
+
+print("Loop concluído.")
+
+
+– Uma estrutura de tomada de decisão
+
+Exemplo 1: 
+# Exemplo de estrutura de tomada de decisão usando o comando if
+idade = 18
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+
+Exemplo 2: 
+# Exemplo de estrutura de tomada de decisão usando if, elif e else
+nota = 75
+
+if nota >= 90:
+    print("Nota: A")
+elif nota >= 80:
+    print("Nota: B")
+elif nota >= 70:
+    print("Nota: C")
+elif nota >= 60:
+    print("Nota: D")
+else:
+    print("Nota: F")
+
+
+
+
+
+
