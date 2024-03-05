@@ -49,7 +49,7 @@ de código. É uma linguagem mais verbosa em comparação com Python e JavaScrip
 Python: É uma linguagem interpretada, o que significa que o código fonte é executado diretamente por um interpretador. Python tem uma 
 grande variedade de bibliotecas e frameworks que facilitam o desenvolvimento em diferentes áreas.
 JavaScript: Inicialmente interpretada nos navegadores, JavaScript também pode ser executada em servidores usando ambientes como Node.js.
-Isso permite a execução de JavaScript em diferentesambientes, incluindo web servers e servidores de aplicativos.
+Isso permite a execução de JavaScript em diferentesambientes, incluindo web servers e servidores de aplicação.
 Java: Java é compilada em bytecode, que é executado em uma máquina virtual Java (JVM). Isso torna o código Java altamente portável, já que
 a JVM está disponível em várias plataformas.
 
