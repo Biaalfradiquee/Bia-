@@ -1,0 +1,57 @@
+QUESTÃO 1: implemente o algoritmo de ordenação Bubble Sort usando python: 
+
+def bubble_sort(arr):
+    n = len(arr)
+    # Percorre todos os elementos do array
+    for i in range(n):
+        # Últimos i elementos já estão no lugar correto
+        for j in range(0, n-i-1):
+            # Percorre o array de 0 a n-i-1
+            # Troca se o elemento encontrado for maior que o próximo elemento
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+# Exemplo de uso
+if __name__ == "__main__":
+    # Array de exemplo
+    arr = [64, 34, 25, 12, 22, 11, 90]
+    
+    # Chama a função bubble_sort passando o array
+    bubble_sort(arr)
+    
+    # Imprime o array ordenado
+    print("Array ordenado:")
+    for i in range(len(arr)):
+        print(arr[i], end=" ")
+
+-> Este código define a função bubble_sort, que recebe uma lista como entrada e ordena os elementos da lista em ordem crescente usando o algoritmo Bubble Sort. 
+Em seguida, um exemplo de uso é fornecido para demonstrar como chamar a função e imprimir o array ordenado.
+
+QUESTÃO 2: implemente um algorítimo que imprima apenas as vogais de uma
+determinada palavra ou frase.
+
+def imprime_vogais(frase):
+    # Lista de vogais
+    vogais = ['a', 'e', 'i', 'o', 'u']
+    
+    # Converte a frase para minúsculas para facilitar a comparação
+    frase = frase.lower()
+    
+    # Percorre cada caractere na frase
+    for char in frase:
+        # Verifica se o caractere é uma vogal
+        if char in vogais:
+            # Imprime a vogal
+            print(char, end=" ")
+
+# Exemplo de uso
+if __name__ == "__main__":
+    # Frase de exemplo
+    frase = "Python é uma linguagem de programação poderosa"
+    
+    # Chama a função para imprimir as vogais na frase
+    print("Vogais na frase:")
+    imprime_vogais(frase)
+
+->Neste exemplo, a função imprime_vogais recebe uma frase como entrada, converte-a para minúsculas para garantir que todas as vogais sejam comparadas corretamente, e então percorre cada 
+caractere na frase. Se o caractere for uma vogal, ele será impresso. Ao executar este código com a frase de exemplo, você verá apenas as vogais impressas na saída.
