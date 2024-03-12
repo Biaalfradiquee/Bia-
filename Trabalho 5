@@ -24,8 +24,8 @@ if __name__ == "__main__":
     for i in range(len(arr)):
         print(arr[i], end=" ")
 
--> Este código define a função bubble_sort, que recebe uma lista como entrada e ordena os elementos da lista em ordem crescente usando o algoritmo Bubble Sort. 
-Em seguida, um exemplo de uso é fornecido para demonstrar como chamar a função e imprimir o array ordenado.
+-> Este código define a função bubble_sort, que recebe uma lista como entrada e ordena os elementos da lista em ordem crescente usando 
+o algoritmo Bubble Sort. Em seguida, um exemplo de uso é fornecido para demonstrar como chamar a função e imprimir o array ordenado.
 
 QUESTÃO 2: implemente um algorítimo que imprima apenas as vogais de uma
 determinada palavra ou frase.
@@ -53,5 +53,6 @@ if __name__ == "__main__":
     print("Vogais na frase:")
     imprime_vogais(frase)
 
-->Neste exemplo, a função imprime_vogais recebe uma frase como entrada, converte-a para minúsculas para garantir que todas as vogais sejam comparadas corretamente, e então percorre cada 
-caractere na frase. Se o caractere for uma vogal, ele será impresso. Ao executar este código com a frase de exemplo, você verá apenas as vogais impressas na saída.
+->Neste exemplo, a função imprime_vogais recebe uma frase como entrada, converte-a para minúsculas para garantir que todas as vogais sejam
+comparadas corretamente, e então percorre cada caractere na frase. Se o caractere for uma vogal, ele será impresso. Ao executar este 
+código com a frase de exemplo, você verá apenas as vogais impressas na saída.
