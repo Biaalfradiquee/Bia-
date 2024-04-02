@@ -1,0 +1,142 @@
+Questão 1: No contexto da ubiquidade da computação, explique brevemente porque é vantajoso dominar seus conceitos fundamentais ao lidar com o Direito: 
+
+R: A computação tornou-se fundamental para o Direito uma vez que influenciou diretamente no aumento da produtividade, permitindo que os profissionais economizem tempo e se concentrem em
+tarefas mais complexas e estratégicas. Assim, o uso da computação no direito fez não só com que os processos se tornassem mais simples, mais ágeis, mas também trouxe mais economia para o
+Direito, haja vista a eficiência do uso de sistemas.
+Além disso, dominar os conceitos fundamentais da computação é vantajoso ao lidar com o Direito, pois permite uma melhor compreensão das questões legais relacionadas à tecnologia, como 
+proteção de dados, crimes cibernéticos e regulamentação de novas tecnologias. 
+
+Questão 2: Muitos termos são usados no nosso cotidiano com um significado, mas apresentam outro, geralmente mais preciso, em determinada área do conhecimento. Não seria diferente com os
+termos da computação. Considerando esse fato, explique o que significa, na área da computação, os seguintes termos: 
+
+Algoritmo: Consiste em uma sequência de passos finita que tem objetivo de solucionar determinado problema. 
+
+nuvem: Consiste em uma camada de abstração sobre um conjunto de servidores e outros recursos computacionais.
+
+servidor: Consiste em um computador, que atende requisições de dispositivos clientes, através de uma ou mais redes, capazes de executar aplicações, prever o processamento e/ou capacidade
+de armazenamento de dados. 
+
+neutralidade da rede: consiste em um princípio que determina que todo tráfego da internet deve ser tratado igualmente. 
+ 
+Arquivo: Consiste em um método comum de persistência ou armazenamento de dados - conjunto de dados ao qual se dá um nome. 
+
+Questão 3: A realidade é infinitamente complexa e o mundo é multifacetado. Dito isso, explique como podemos organizar na palavra Internet conceitos diferentes como máquinas, cabos, 
+programas e dados?
+
+R: Através do uso da abstração, em que cada conceito consiste em um nível diferente de abstração - quanto mais próximo da construção mental, mais abstrato. Se algo existe apenas na minha
+cabeça, é absolutamente abstrato. 
+
+Questão 4: Sabendo que computadores precisam ser programados precisamente para realizar suas tarefas, e que, então, só repetiriam o que humanos já sabem fazer, por que eles foram 
+inventados?
+
+R: Embora os computadores possam ser programados para realizar uma ampla variedade de tarefas de maneira precisa e eficiente, sua verdadeira inovação está na capacidade de processamento
+de informações em grande escala, na automação de processos complexos e na capacidade de lidar com grandes volumes de dados de forma rápida e precisa - automatizar tarefas repetitivas. 
+
+Questão 5: Por que uma rede neural artificial não pode tomar decisões médicas ou de concessão de empréstimos, por exemplo. Existe algum algoritmo ou modelo de IA que poderia ser 
+utilizado em algum dos casos em pauta? Se sim, por que e em qual?
+
+R: O algoritmo não pode ser responsabilizado civil e penalmente pelas decisões que toma.  Além disso, uma rede neural artificial não consegue explicar sua decisão para o ser humano, o 
+que torna difícil a sua compreensão. 
+Sim, as árvores de decisão, que conseguem explicar sua decisão, uma vez que tomam suas decisões com base em critérios claros de decisão - decisões tomadas anteriormente. 
+
+Questão 6: O que diferencia um arquivo “binário” de um arquivo “de texto”?
+
+R: Nos arquivos de texto, os dados são representados linha a linha, que na prática, é uma sequência de bytes representando caracteres. Já arquivos binários, são representados por uma 
+sequência de bytes, que não são caracteres, sem o conceito de quebra de linha - pode ganhar qualquer forma, inclusive caracteres. 
+
+Questão 7: O que diferencia um formato proprietário de arquivos e um formato aberto de arquivos. Contextualize no cenário da divulgação e manutenção de dados públicos. 
+
+R: Arquivos salvos em formatos abertos consistem em arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. Já os formatos 
+proprietários, representam a privatização da memória digital, isto é, os formatos proprietários são, na verdade, controlados e definidos por interesses privados. 
+Na divulgação e manutenção de dados públicos, que consistem em dados de interesse público que devem ser divulgados pelo Estado, o formato de arquivo a ser utilizado é o formato aberto. 
+
+Questão 8: O que diferencia, no contexto da computação, um protocolo de comunicação aberto de um protocolo de comunicação proprietário? Contextualize no cenário da liberdade econômica e 
+do desenvolvimento de novas aplicações para internet.
+
+R: Nos protocolos de comunicação abertos, o público em geral pode ver os códigos e especificações subjacentes, em que o programador pode usar o software de sistema de acesso protocolo
+aberto. Já os protocolos de comunicação fechados, pertencem a empresa que os cria e exigem licenças de usuário para ver as especificações. 
+No cenário da liberdade econômica, o uso de protocolos abertos facilitou o desenvolvimento de um grande número de aplicações para a internet. O uso de protocolos proprietários pode 
+dificultar o desenvolvimento de novas aplicações e a entrada de novos atores no mercado. 
+
+Questão 9: Sobre o “sistema operacional”:
+
+O que é um sistema operacional e qual a sua relação com os programas do computador e seus componentes físicos?
+
+R: O sistema operacional é um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a
+programas de terceiros, estabelecendo a interface entre o computador e o usuário. 
+
+ Existe apenas um sistema operacional disponível?
+
+R: Não. IOS e o Android. 
+
+Vender computadores obrigatoriamente ativados com um sistema operacional pode ser considerado “venda casada”? Explique.
+
+R: Sim, se o computador for vendido com um sistema operacional pré-instalado e ativado e os consumidores não tiverem a opção de adquirir o computador sem o sistema operacional ou se 
+forem cobrados por ele mesmo que não desejem, pode ser considerado venda casada. Em alguns casos, a inclusão do sistema operacional pré-instalado pode ser justificada, mas o consumidor 
+deve ter a opção de escolher o sistema ou comprar o computador sem nenhum sistema instalado. 
+
+Questão 10: Sobre a LGPD:
+
+Sua abrangência inclui datacenters em países estrangeiros? Explique.
+
+R: A LGPD é uma lei brasileira, em que sua abrangência se estende a qualquer operação de tratamento de dados pessoais realizada no Brasil, independentemente da localização dos servidores
+onde esses dados são armazenados. Assim, mesmo que os dados sejam armazenados em data centers localizados em países estrangeiros, se esses dados pertencerem a indivíduos brasileiros ou 
+forem coletados no Brasil, as disposições da LGPD se aplicam. 
+
+Na sua   opinião, os servidores de aplicação agem de maneira adequada atualmente:
+
+1) no tocante ao conteúdo em desacordo com suas regras de comunidade? Explique.
+
+R: Sim, uma vez que as redes sociais retiram de circulação os conteúdos que estão em desacordo com as regras de comunidade, com o intuito de proteger os cidadãos. 
+
+2) em relação ao conteúdo que destroi reputações, sabidamente falso? Explique.
+
+Questão 11: No contexto da linguagem de programação Python:
+
+Quais as estruturas de repetição utilizadas?
+R: For - utilizado para integrar sobre uma sequência ou um intervalo específico de valores 
+While - repete um bloco de código enquanto uma condição específica da for verdadeira 
+
+Como são definidos os blocos de comando?
+
+R: São definidos pela indenização, em que todas as linhas de código com a mesma indentação fazem parte do mesmo bloco. 
+
+Quais as duas principais operações realizadas pelo operador +? Explique brevemente cada uma delas.
+
+R: Concatenação de strings - quando o operador + é usado entre duas strings, ele concatena (une) essas strings em uma única string 
+Adição de números - quando o operador + é usado entre dois números, ele os soma. 
+
+O que é uma função?
+
+R: É um bloco de código reutilizável que executa uma tarefa específica. 
+
+Como definimos uma função?
+
+R: Uma função em Python é definida usando a palavra chave “def”, seguida do nome da função e seus parâmetros entre parênteses. 
+
+Quais as estruturas de tomada de decisão da linguagem? Construa um exemplo de cada uma delas.
+
+R: IF - executa um bloco de código se uma condição especificada for verdadeira 
+
+if idade > 18: 
+print (“maior de idade”) 
+
+Else - executa um bloco de código se a condição especificada no IF for falsa
+
+if idade > 18: 
+print (“maior de idade”) 
+else: 
+print (“menor de idade”)
+
+Elif - utilizado em conjunto com o IF para verificar múltiplas condições
+
+if idade > 18: 
+print (“maior de idade”)
+elif idade > 12: 
+print (“adolescente”) 
+else: 
+print (“criança”) 
+
+ 
+
+
